@@ -1,7 +1,7 @@
 {
-    "name": "angular2-skeleton",
+    "name": "weatherapp",
     "version": "1.0.0",
-    "description": "",
+    "description": "Gets and displays the local weather",
     "scripts": {
         "start": "tsc && concurrently \"tsc -w\" \"lite-server\" ",
         "lite": "lite-server",
